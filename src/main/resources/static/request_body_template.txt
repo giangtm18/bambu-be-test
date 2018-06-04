@@ -1,0 +1,17 @@
+{
+	"email": "tmgiang@cmc.com.vn",
+	"answers": [
+		{
+			"question": {
+				"id": 1
+			},
+			"content": "4000"
+		},
+		{
+			"question": {
+				"id": 2
+			},
+			"content": "10000"
+		}
+	]
+}
